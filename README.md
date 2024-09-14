@@ -1,5 +1,5 @@
 # E-Commerce API
-You are builded an e-commerce API using Django Rest Framework (DRF) to manage customers, products, orders, and order items. The system supports multiple customers, 
+An E-commerce API using Django Rest Framework (DRF) to manage customers, products, orders, and order items. The system supports multiple customers, 
 each of whom can place multiple orders, and each order can contain multiple products with quantities.
 
 #Key Features
